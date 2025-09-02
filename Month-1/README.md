@@ -19,10 +19,10 @@ This folder contains all the **tasks and projects** I completed during the **fir
 
 ## 📖 About Month-1
 
-During the **first month** of my internship at **CodeAlpha**, I worked on **two projects** focusing on **HTML, CSS, and JavaScript fundamentals**, along with DOM manipulation and building small interactive web applications.
+During the **first month** of my internship at **CodeAlpha**, I worked on **two projects** focusing on **web development fundamentals**, building interactive applications using modern tools and frameworks.
 
 Each project has its own folder containing:
-- Source code files (`index.html`, `style.css`, `script.js`)  
+- Source code files (`index.html`, `style.css`, `script.js` or TypeScript with Vite config)  
 - A dedicated `README.md` explaining the task and features
 
 ---
@@ -38,26 +38,27 @@ Each project has its own folder containing:
 
 ### **Task 2 – CodeAlpha My To-Do App**
 - A **to-do list application** where users can **add, delete, and mark tasks as complete**.  
-- Data persists temporarily in browser memory.  
-- Tech Used: **HTML, CSS, JavaScript**  
+- Built using **TypeScript with Vite** for faster builds, modular development, and better type safety.  
+- Tech Used: **TypeScript, Vite, HTML, CSS**  
 - [View Project Folder →](./CodeAlpha_My-ToDo-App)  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **HTML** – Page structure  
-- **CSS** – Styling and layout  
-- **JavaScript** – Logic, interactivity, and DOM manipulation  
+- **HTML, CSS** – Structure and styling  
+- **JavaScript** – Used in Task 1  
+- **TypeScript with Vite** – Used in Task 2 for modern workflow and type safety  
 
 ---
 
 ## 📚 What I Learned
 
-- Building **functional mini-projects** using JavaScript  
+- Building **functional mini-projects** using both **vanilla JavaScript** and **TypeScript**  
 - **Working with DOM elements** to update UI dynamically  
-- Writing **clean and reusable code** for small apps  
-- Structuring projects neatly with documentation  
+- Setting up and running projects using **Vite for fast development**  
+- Writing **clean, maintainable code** with type safety in TypeScript  
+- Structuring projects neatly with proper documentation  
 
 ---
 
@@ -66,4 +67,3 @@ Each project has its own folder containing:
 🔗 [Go Back to Main Repository →](../)
 
 ---
-
