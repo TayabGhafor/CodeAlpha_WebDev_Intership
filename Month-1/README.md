@@ -19,10 +19,10 @@ This folder contains all the **tasks and projects** I completed during the **fir
 
 ## 📖 About Month-1
 
-During the **first month** of my internship at **CodeAlpha**, I worked on **two projects** focusing on **web development fundamentals**, building interactive applications using modern tools and frameworks.
+During the **first month** of my internship at **CodeAlpha**, I worked on **two projects** focusing on modern web development fundamentals, DOM manipulation, and building small interactive applications using different technologies.
 
 Each project has its own folder containing:
-- Source code files (`index.html`, `style.css`, `script.js` or TypeScript with Vite config)  
+- Source code files (`index.html`, `main.ts`, `style.css`, etc.)  
 - A dedicated `README.md` explaining the task and features
 
 ---
@@ -37,27 +37,29 @@ Each project has its own folder containing:
 ---
 
 ### **Task 2 – CodeAlpha My To-Do App**
-- A **to-do list application** where users can **add, delete, and mark tasks as complete**.  
-- Built using **TypeScript with Vite** for faster builds, modular development, and better type safety.  
-- Tech Used: **TypeScript, Vite, HTML, CSS**  
+- A **to-do list application** built using **TypeScript with Vite** for fast development.  
+- Styled with **CSS and Tailwind** for a modern, responsive UI.  
+- Users can **add, delete, and mark tasks as complete** with a clean interface.  
+- Tech Used: **TypeScript, Vite, Tailwind CSS**  
 - [View Project Folder →](./CodeAlpha_My-ToDo-App)  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **HTML, CSS** – Structure and styling  
-- **JavaScript** – Used in Task 1  
-- **TypeScript with Vite** – Used in Task 2 for modern workflow and type safety  
+- **HTML, CSS, JavaScript** – Used for Age Calculator  
+- **TypeScript, Vite, Tailwind CSS** – Used for My To-Do App  
+- **Version Control:** Git & GitHub  
+- **Documentation:** Markdown  
 
 ---
 
 ## 📚 What I Learned
 
-- Building **functional mini-projects** using both **vanilla JavaScript** and **TypeScript**  
-- **Working with DOM elements** to update UI dynamically  
-- Setting up and running projects using **Vite for fast development**  
-- Writing **clean, maintainable code** with type safety in TypeScript  
+- Building **functional mini-projects** using different stacks  
+- **Working with DOM elements** and TypeScript for strong typing  
+- Writing **scalable and clean code** for modern web apps  
+- Using **Tailwind CSS** for rapid styling and responsive design  
 - Structuring projects neatly with proper documentation  
 
 ---
