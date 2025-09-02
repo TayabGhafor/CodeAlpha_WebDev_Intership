@@ -9,9 +9,9 @@ This repo documents my **3-month journey** as a Web Development Intern at **Code
 
 - [📖 About This Repository](#-about-this-repository)
 - [📅 Monthly Work](#-monthly-work)
-  - [Month-1](#month-1)
-  - [Month-2](#month-2)
-  - [Month-3](#month-3)
+  - [Month-1](./Month-1)
+  - [Month-2](./Month-2)
+  - [Month-3](./Month-3)
 - [🛠 Tech Stack](#-tech-stack)
 - [📚 What I Learned](#-what-i-learned)
 - [📜 License](#-license)
@@ -29,7 +29,7 @@ Each folder contains:
 
 By exploring this repository, you’ll find:
 - **Web development projects** ranging from beginner to intermediate level  
-- **Hands-on code samples** using HTML, CSS, JavaScript, and more  
+- **Hands-on code samples** using HTML, CSS, JavaScript, TypeScript, and Tailwind CSS  
 - **Step-by-step progress** throughout my internship  
 
 ---
@@ -57,7 +57,8 @@ By exploring this repository, you’ll find:
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **HTML, CSS, JavaScript**  
+- **TypeScript, Vite, Tailwind CSS**  
 - **Version Control:** Git & GitHub  
 - **Documentation:** Markdown  
 
@@ -65,8 +66,8 @@ By exploring this repository, you’ll find:
 
 ## 📚 What I Learned
 
-- Writing **clean, modular code** using JavaScript  
-- Creating **responsive layouts** with HTML and CSS  
+- Writing **clean, modular code** using JavaScript and TypeScript  
+- Creating **responsive layouts** with HTML and CSS / Tailwind  
 - Implementing **DOM manipulation** for interactive features  
 - Maintaining **well-documented repositories** on GitHub  
 - Structuring projects **month-wise for better organization**  
