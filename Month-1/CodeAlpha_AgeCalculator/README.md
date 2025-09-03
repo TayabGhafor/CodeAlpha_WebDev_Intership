@@ -27,7 +27,13 @@ This **Age Calculator Web App** takes a user's date of birth as input and dynami
 The calculation updates instantly upon user input using JavaScript DOM manipulation.
 
 ---
+## 🖼️ Screenshots / Live Demo
 
+* **Screenshot 1:** ![Screenshot 1](images/screenshot1.png)
+* **Screenshot 2:** ![Screenshot 2](images/screenshot2.png)
+* **Live Demo (optional):** [View Live App](https://code-alpha-web-dev-intership-ozdc.vercel.app/)
+
+---
 ## ✨ Features
 
 - 🖊️ **Simple and clean input form**  
