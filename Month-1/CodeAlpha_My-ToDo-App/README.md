@@ -79,10 +79,8 @@ Users can:
 
 ## 🖼️ Screenshots / Live Demo
 
-> *(Add your screenshots and/or live demo link here)*
-
-* **Screenshot 1:** ![Screenshot 1](images/screenshot1.png)
-* **Screenshot 2:** ![Screenshot 2](images/screenshot2.png)
+* **Screenshot 1:** ![Screenshot 1](images/mytodo-0.png)
+* **Screenshot 2:** ![Screenshot 2](images/mytodo-1.png)
 * **Live Demo (optional):** [View Live App](https://code-alpha-web-dev-intership.vercel.app/)
 
 ---
