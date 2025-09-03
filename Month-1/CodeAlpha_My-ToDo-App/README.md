@@ -83,7 +83,7 @@ Users can:
 
 * **Screenshot 1:** ![Screenshot 1](images/screenshot1.png)
 * **Screenshot 2:** ![Screenshot 2](images/screenshot2.png)
-* **Live Demo (optional):** [View Live App](https://your-live-demo-link.com)
+* **Live Demo (optional):** [View Live App](https://code-alpha-web-dev-intership.vercel.app/)
 
 ---
 
